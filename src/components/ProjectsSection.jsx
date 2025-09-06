@@ -31,6 +31,7 @@ const projects = [
     demoUrl: "#",
     githubUrl: "https://github.com/JoelKizhakkayil",
   },
+  
 ];
 
 export const ProjectsSection = () => {

@@ -18,7 +18,7 @@ export const FoundMe = () => {
       }`}
     >
       <img
-        src="joel_circular.png"
+        src="/joel_circular.png"
         alt="Joel Kizhakkayil"
         className="rounded-full w-16 h-16 mx-auto"
       />
